@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 3. Setup the `.env` file with your email configuration for sending alerts.
 
-4. Run `main.py` to start monitoring:
+4. Run `main.py` on the 'Pycharm' IDE to start monitoring:
 python main.py
 
 ## Contribution:
