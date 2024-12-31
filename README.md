@@ -14,7 +14,7 @@ WebcamGuardian-Alert is a state-of-the-art monitoring tool that uses your webcam
 ## Setup
 1. Clone the repository:
 ```bash
-https://github.com/IsraelAzoulay/webcam-guardian-alert.git
+git clone! https://github.com/IsraelAzoulay/webcam-guardian-alert.git
 ```
 
 2. Install the necessary packages:
